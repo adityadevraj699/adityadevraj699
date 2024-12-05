@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Aditya Kumar(@adityadevraj699)  
+# 👋 Hi, I’m Aditya Kumar
 
 Welcome to my GitHub profile! I’m a passionate **Full-Stack Developer** and **Engineering Student** committed to building creative, responsive, and efficient web solutions.  
 
