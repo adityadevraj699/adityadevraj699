@@ -1,73 +1,85 @@
-# 👋 Hi, I’m Aditya Kumar
-
-Welcome to my GitHub profile! I’m a passionate **Full-Stack Developer** and **Engineering Student** committed to building creative, responsive, and efficient web solutions.  
+Here’s a redesigned version of your GitHub profile with a visually engaging and modern 3D-themed format. I have incorporated icons and organized the content for a more appealing presentation:
 
 ---
 
-## 🌟 About Me  
-
-🎓 **Engineering Student** specializing in software development and problem-solving.  
-💻 **Full-Stack Developer** with experience in both frontend and backend technologies.  
-🌐 Explore my portfolio: [adityadevraj699.online](https://adityadevraj699.online)  
-
-I believe in crafting elegant solutions for real-world problems while constantly exploring and learning new technologies.  
+### 🌐 **Welcome to My GitHub Profile**  
+**👋 Hi, I’m Aditya Kumar**  
+🚀 A passionate **Full-Stack Developer** and **Engineering Student** committed to creating responsive and efficient web solutions.  
 
 ---
 
-## 👀 Interests  
+### 🎨 **About Me**  
 
-I’m deeply interested in:  
-- 🌐 **Web Development**: React, Vite, HTML, CSS, JavaScript, Bootstrap.  
-- 💻 **Backend Technologies**: python, REST APIs, Node.js.  
-- 🔒 **Network Security**: Building secure systems and network solutions.  
-- 📊 **Data Visualization**: Interactive dashboards and visual storytelling.  
+📘 **Engineering Student** specializing in software development and problem-solving.  
+💻 Experienced in building **end-to-end web applications**.  
+🌍 **Portfolio**: [adityadevraj699.online](https://adityadevraj699.online)  
 
----
-
-## 🌱 Currently Learning  
-
-- Advanced **React Hooks** and state management techniques.  
-- **Dark Mode** and responsive UI/UX enhancements.  
-- Backend optimization using **Java** and database queries.  
+🧑‍💻 I strive to build user-friendly applications while exploring new technologies to enhance the digital experience.  
 
 ---
 
-## 💞️ Looking to Collaborate On  
+### 👀 **Interests**  
 
-- 🚀 **Web Application Development**: Open-source or innovative projects.  
-- 🌟 **Portfolio Tools**: Creating seamless user experiences.  
-- 📱 **Cross-Platform Applications**: Building efficient and responsive tools.  
+🌐 **Web Development**  
+![React](https://img.icons8.com/3d-fluency/50/000000/react.png) ![HTML](https://img.icons8.com/3d-fluency/50/000000/html.png) ![CSS](https://img.icons8.com/3d-fluency/50/000000/css.png) ![JavaScript](https://img.icons8.com/3d-fluency/50/000000/javascript.png) ![Bootstrap](https://img.icons8.com/3d-fluency/50/000000/bootstrap.png)  
 
----
+💻 **Backend Technologies**  
+![Python](https://img.icons8.com/3d-fluency/50/000000/python.png) ![Node.js](https://img.icons8.com/3d-fluency/50/000000/node-js.png) ![MySQL](https://img.icons8.com/3d-fluency/50/000000/mysql.png)  
 
-## 📫 How to Reach Me  
+🔒 **Network Security**  
+![Network](https://img.icons8.com/3d-fluency/50/000000/network.png)  
 
-📧 **Email**: [your-email@example.com](mailto:aditya.kumar1.cs.2022@mimeerut.ac.in)  
-🔗 **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-🌐 **Portfolio**: [adityadevraj699.online](https://adityadevraj699.online)  
-
----
-
-## 😄 Pronouns  
-
-He/Him  
+📊 **Data Visualization**  
+![Dashboard](https://img.icons8.com/3d-fluency/50/000000/data-visualization.png)  
 
 ---
 
-## ⚡ Fun Fact  
+### 🌱 **Currently Learning**  
 
-I’m a problem-solver at heart—whether it’s fixing bugs or finding the best pizza in town. 🍕💡  
-
----
-
-### 💻 Technologies & Tools  
-
-- **Frontend**: React, HTML, CSS, JavaScript, Bootstrap.  
-- **Backend**: Spring Boot, Node.js, MySQL.  
-- **Version Control**: Git, GitHub.  
-- **Others**: REST APIs, Responsive Design, Packet Tracer (Network Security).  
+- Advanced **React Hooks** 🌀  
+- Responsive UI/UX Enhancements 🎨  
+- Backend Optimization with **Java** and **Database Queries** 💾  
 
 ---
 
-Let’s create something amazing together! 🚀  
+### 💞️ **Looking to Collaborate On**  
 
+🚀 **Web Applications** – Building interactive and user-friendly interfaces.  
+🌟 **Portfolio Tools** – Elevating user experiences for developers.  
+📱 **Cross-Platform Applications** – Efficient tools for better accessibility.  
+
+---
+
+### 📬 **How to Reach Me**  
+
+📧 **Email**: [![Email](https://img.icons8.com/3d-fluency/30/000000/email.png)](mailto:aditya.kumar1.cs.2022@mimeerut.ac.in)  
+🔗 **LinkedIn**: [![LinkedIn](https://img.icons8.com/3d-fluency/30/000000/linkedin.png)](https://www.linkedin.com/in/aditya-kumar-9605b9240/)  
+🌐 **Portfolio**: [![Portfolio](https://img.icons8.com/3d-fluency/30/000000/domain.png)](https://adityadevraj699.online)  
+
+---
+
+### ⚡ **Fun Fact**  
+
+🎉 I’m a problem-solver at heart—whether it’s fixing bugs or finding the best pizza in town. 🍕  
+
+---
+
+### 💻 **Technologies & Tools**  
+
+#### Frontend  
+![React](https://img.icons8.com/3d-fluency/50/000000/react.png) ![HTML](https://img.icons8.com/3d-fluency/50/000000/html.png) ![CSS](https://img.icons8.com/3d-fluency/50/000000/css.png) ![JavaScript](https://img.icons8.com/3d-fluency/50/000000/javascript.png) ![Bootstrap](https://img.icons8.com/3d-fluency/50/000000/bootstrap.png)  
+
+#### Backend  
+![Spring Boot](https://img.icons8.com/3d-fluency/50/000000/java-coffee-cup-logo.png) ![Node.js](https://img.icons8.com/3d-fluency/50/000000/node-js.png) ![MySQL](https://img.icons8.com/3d-fluency/50/000000/mysql.png)  
+
+#### Tools  
+![Git](https://img.icons8.com/3d-fluency/50/000000/git.png) ![GitHub](https://img.icons8.com/3d-fluency/50/000000/github.png)  
+🌐 **Others**: REST APIs, Responsive Design, Packet Tracer.  
+
+---
+
+💡 Let’s connect and create something amazing together!  
+
+---
+
+This design adds visual elements and organizes your profile for better readability and appeal. You can integrate these icons directly by using the appropriate Markdown and embedding links to the images.
