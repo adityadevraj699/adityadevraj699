@@ -12,10 +12,10 @@
 
 ### 🛠 **Tech Stack**
 ```yaml
-Frontend:   HTML5, CSS, JavaScript, React.js
+Frontend:   HTML5, CSS, JavaScript, React.js, Nextjs, Tailwind
 Backend:    Node.js, Express.js
-Database:   MongoDB
-Languages:  C, C++, Java (DSA)
+Database:   MongoDB, Sql
+Languages:  C, C++, Java (DSA), Python
 
 ```
 
