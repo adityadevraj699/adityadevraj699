@@ -1,14 +1,32 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=Hello+World!+%F0%9F%92%BB;I'm+Aditya+Kumar+%F0%9F%A7%AA;Aspiring+Full-Stack+Developer;Passionate+about+MERN+Stack;Open-Source+Enthusiast+%E2%9C%A8" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=Hello+World!+%F0%9F%92%BB;I'm+Aditya+Kumar+%F0%9F%A7%AA;Full-Stack+Developer;MERN+Stack+Enthusiast;Open-Source+Contributor+%E2%9C%A8" />
 </h1>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300">
+  <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="600" height="300">
 </p>
 
 ---
+
+### ⚡ **Who Am I?**
+```python
+class SoftwareEngineer:
+    def __init__(self):
+        self.name = "Aditya Kumar"
+        self.role = "Full-Stack Developer"
+        self.location = "India"
+        self.skills = ["MERN Stack", "JavaScript", "React", "Node.js", "MongoDB", "C++", "Java", "coder]
+    
+    def code(self):
+        print("Developing Scalable Web Apps...")
+
+me = SoftwareEngineer()
+me.code()
+>
+
+```
 
 ### 🛠 **Tech Stack**
 ```yaml
