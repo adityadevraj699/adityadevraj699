@@ -17,7 +17,7 @@ class SoftwareEngineer:
         self.name = "Aditya Kumar"
         self.role = "Full-Stack Developer"
         self.location = "India"
-        self.skills = ["MERN Stack", "JavaScript", "React", "Node.js", "MongoDB", "C++", "Java", "coder]
+        self.skills = ["MERN Stack", "JavaScript", "React", "Node.js", "MongoDB", "C++", "Java", "coder"]
     
     def code(self):
         print("Developing Scalable Web Apps...")
