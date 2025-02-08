@@ -1,5 +1,21 @@
-# 💫 About Me:
-Hello, I’m Aditya Kumar, a passionate and aspiring Full-Stack Web Developer currently pursuing a B.Tech in Computer Science and Engineering at the Meerut Institute of Technology. Hailing from Patna, Bihar, I have cultivated a strong foundation in technology and innovation, driven by my keen interest in crafting engaging and impactful digital experiences.<br><br>Technical Expertise<br><br>My enthusiasm for web development has led me to work with a diverse range of technologies, including:<br><br>Frontend: HTML5, CSS, JavaScript, React.js<br><br>Backend: Node.js, Express.js<br><br>Database: MongoDB<br><br>Programming Languages: C, C++, Java (focused on Data Structures and Algorithms - DSA)
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=Hello+World!+%F0%9F%92%BB;I'm+Aditya+Kumar+%F0%9F%A7%AA;Aspiring+Full-Stack+Developer;Passionate+about+MERN+Stack;Open-Source+Enthusiast+%E2%9C%A8" />
+</h1>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300">
+</p>
+
+---
+
+### 🛠 **Tech Stack**
+```yaml
+Frontend:   HTML5, CSS, JavaScript, React.js
+Backend:    Node.js, Express.js
+Database:   MongoDB
+Languages:  C, C++, Java (DSA)
 
 
 ## 🌐 Socials:
