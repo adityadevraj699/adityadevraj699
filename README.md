@@ -1,96 +1,81 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=>>+SYSTEM+INITIALIZING...;>>+ACCESSING+ADITYA+KUMAR+CORE;>>+MERN+STACK+ARCHITECT+DETECTED;>>+JAVA+SPRING+BOOT+LOADED;>>+HACKER+MODE+ENABLED" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=Hello+World!+%F0%9F%92%BB;I'm+Aditya+Kumar+%F0%9F%A7%AA;Full-Stack+Developer;MERN+Stack+Enthusiast;Open-Source+Contributor+%E2%9C%A8" />
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=ADITYA%20KUMAR%20-%20ROOT%20ACCESS&fontSize=40&fontColor=00FF00&animation=twinkling" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/QUY2upAMnG4Us/giphy.gif" width="100%" style="border: 1px solid #00FF00; border-radius: 10px;">
+  <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="600" height="300" />
 </p>
 
 ---
 
-### ⚡ **SYSTEM_CORE.PY**
-```python
-class SoftwareEngineer:
-    def __init__(self):
-        self.name = "Aditya Kumar"
-        self.role = "Full-Stack Developer"
-        self.location = "India"
-        self.skills = {
-            "Frontend": ["React", "Next.js", "Tailwind"],
-            "Backend": ["Spring Boot", "Node.js", "Express"],
-            "Database": ["MongoDB", "MySQL", "Postgres"],
-            "Languages": ["Java", "C++", "JavaScript", "Python"]
-        }
+## 💫 About Me  
 
-    def execute(self):
-        # Winning Hackathon 2024...
-        return "Developing Scalable Web Architectures..."
+👋 Hi, I’m **Aditya Kumar**, a passionate **Full-Stack Web Developer** with strong expertise in **Java (Spring Boot, JDBC)** and the **MERN Stack (MongoDB, Express, React, Node.js)**.
 
-# Booting Environment
-aditya = SoftwareEngineer()
-print(aditya.execute())
+🎓 I am currently pursuing **B.Tech in Computer Science & Engineering** from **MIT Meerut**, where I actively work on real-world projects and continuously improve my problem-solving skills.
 
-```
+🚀 I specialize in building **scalable, secure, and high-performance web applications**, focusing on clean architecture and user-friendly design.
 
----
+💡 I have a strong foundation in **Data Structures, Algorithms, Backend Engineering, and System Design**.
 
-### 💻 **TECH_STACK_OVERRIDE**
+🌐 Experienced in developing:
+- RESTful APIs  
+- Authentication & Authorization systems  
+- Full-stack applications with modern UI/UX  
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dmongodb,express,react,nodejs,java,spring,cpp,py,ts,nextjs,tailwind,bootstrap,hibernate,postgres,mysql,docker,git,postman,vercel,firebase,threejs%26perline%3D11" />
-</p>
+🧩 Comfortable working with:
+- **Frontend:** React, Next.js, Tailwind CSS, Bootstrap  
+- **Backend:** Spring Boot, Node.js  
+- **Databases:** MySQL, MongoDB  
+- **Tools:** Git, GitHub, Postman, Vercel  
+
+🏆 **Winner – Software Hackathon 2024**  
+🤝 Active contributor to technical communities & collaborative projects  
+
+🎯 **Career Goal:**  
+To work as a **Java Software Engineer / Full-Stack Developer**, building impactful products, solving real-world problems, and continuously growing as a software professional.
 
 ---
 
-### 📊 **DATABASE_TELEMETRY**
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dadityadevraj699%26theme%3Dmatrix%26hide_border%3Dfalse%26include_all_commits%3Dtrue%26count_private%3Dtrue" width="48%" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dadityadevraj699%26theme%3Dmatrix%26hide_border%3Dfalse%26layout%3Dcompact" width="48%" />
-</p>
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://nirzak-streak-stats.vercel.app/%3Fuser%3Dadityadevraj699%26theme%3Dmatrix%26hide_border%3Dfalse" width="100%" />
-</p>
-
-### 🏆 **SYSTEM_TROPHIES**
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dadityadevraj699%26theme%3Dradical%26no-frame%3Dfalse%26column%3D7" />
-</p>
+## 🌐 Socials
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/FnYhEAt7)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sudo_dev.404)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityadevraj699)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@adii-blog)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31064190)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/adityadevraj699)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aditya.kumar1.cs.2022@mitmeerut.ac.in)
 
 ---
 
-### ✍️ **ROOT_QUOTE**
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://quotes-github-readme.vercel.app/api%3Ftype%3Dhorizontal%26theme%3Dmatrix" />
-</p>
+## 💻 Tech Stack
+*(unchanged — keep your existing badges here as you already have them)*
 
 ---
 
-### 🌐 **UPLINK_CHANNELS**
-
-<p align="center">
-<a href="https://linkedin.com/in/adityadevraj699"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a>
-<a href="mailto:aditya.kumar1.cs.2022@mitmeerut.ac.in"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" /></a>
-<a href="https://instagram.com/sudo_dev.404"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://www.google.com/search?q=https://discord.gg/FnYhEAt7"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Discord-7289DA%3Fstyle%3Dfor-the-badge%26logo%3Ddiscord%26logoColor%3Dwhite" /></a>
-</p>
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=adityadevraj699&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=adityadevraj699&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityadevraj699&theme=dark&hide_border=false&layout=compact)
 
 ---
 
-<p align="center">
-<a href="https://buymeacoffee.com/adityadevraj699">
-<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-</a>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=adityadevraj699&theme=radical&no-frame=false&margin-w=4)
 
-<p align="right">
-<img src="https://visitcount.itsvg.in/api?id=adityadevraj699&icon=7&color=0" />
-</p>
+---
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
+
+---
+
+### 🔝 Top Contributed Repos
+![](https://github-contributor-stats.vercel.app/api?username=adityadevraj699&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=adityadevraj699&icon=7&color=0)](https://visitcount.itsvg.in)
+
+## 💰 Support Me
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/adityadevraj699)
