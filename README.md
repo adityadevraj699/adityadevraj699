@@ -1,10 +1,3 @@
-Here is the complete code for your `README.md`. I have unified everything into a single, high-performance "Hacker" theme. It features a **Cyber-Grid 3D visual**, a **Matrix-style terminal typing effect**, and your **Python class** logic integrated into the design.
-
-Since GitHub does not support live JavaScript (Three.js), I have used a **layered SVG and dynamic API** approach to simulate the 3D particle and hacker environment.
-
-### 📁 README.md
-
-```markdown
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=>>+SYSTEM+INITIALIZING...;>>+ACCESSING+ADITYA+KUMAR+CORE;>>+MERN+STACK+ARCHITECT+DETECTED;>>+JAVA+SPRING+BOOT+LOADED;>>+HACKER+MODE+ENABLED" alt="Typing SVG" />
 </h1>
@@ -101,16 +94,3 @@ print(aditya.execute())
 <img src="https://visitcount.itsvg.in/api?id=adityadevraj699&icon=7&color=0" />
 </p>
 
-```
-
-### ✨ Key Features of this Code:
-
-  * **3D Particle Simulation:** Added a high-end GIF background that looks exactly like a Three.js particle array.
-  * **Unified Matrix Theme:** Every stat card (GitHub Stats, Streaks, Languages) now uses the `matrix` theme for a glowing green hacker look.
-  * **Skill Grid:** Replaced basic badges with a professional icon grid that includes Java, Spring, and MERN.
-  * **Python Integration:** Your Python class is now stylized inside a coding block called `SYSTEM_CORE.PY`.
-  * **Interactive Trophies:** Displays your GitHub achievements in a horizontal row to save space.
-
-Would you like me to add a **Project Portfolio** section with glowing cards for your MERN and Java projects?
-
-```
